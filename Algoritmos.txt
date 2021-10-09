@@ -1,0 +1,112 @@
+
+
+1- Algoritmo - Troca de lâmpada
+
+Primeiro, verificar no interruptor se a lâmpada está funcionando;
+
+Se não estiver, desligar o interruptor;
+
+Pegue a lâmpada nova da caixa;
+
+Pegar as escadas, posicione abaixo da lâmpada queimada para realizar a troca;
+
+Suba nas escadas;
+
+Desenroscar a lâmpada queimada;
+
+Pegar a lâmpada nova;
+
+Enroscar a lâmpada no local;
+
+Descer as escadas;
+
+Ir até o interruptor;
+
+Testar se a lâmpada está funcionando;
+
+Caso não esteja, ir até a lâmpada e verifico se está posicionada corretamente.
+
+
+
+2 Algoritmo - Levar o animal de estimação para passear
+
+Antes de tudo, verificar se o animal está alimentado e se bebeu água;
+
+Traçar a rota e verifico se o clima está adequado para o passeio;
+
+Chamá-lo ou ir até o local onde ele esteja;
+
+Mostrar a guia para ele ver que vai passear e ele vir até você, facilitando a colocação da guia nele;
+
+Verifico se a guia está bem encaixada e não apertada;
+
+Verifico se estou com snacks e com saquinho de necessidades para eventuais contratempos na rua;
+
+Ir com ele até a porta de entrada;
+
+Sair com ele.
+
+
+
+3 - Algoritmo - Como acessar um computador
+
+Primeiramente, ir até a mesa onde está localizado o computador;
+
+Verificar se todas as tomadas estão devidamente ligadas, seja da CPU, do monitor, e do modem para ter a conexão com a internet.;
+
+Apertar o botão de ligar;
+
+Aguardar a inicialização;
+
+Após iniciar, informar o usuário e senha (se houver);
+
+Pressionar enter ou a seta de entrar na tela com o mouse;
+
+Esperar a área de trabalho carregar.
+
+
+
+4 Algoritmo - Como lavar um copo
+
+Pegar o copo sujo, onde quer que ele esteja;
+
+Levar até a pia de lavar louças;
+
+Ligar a torneira, Despejar um pouco de água nele;
+
+Pegar a esponja de lavar louças;
+
+Pegar o detergente, jogar um pouco na esponja;
+
+Umedecer mais uma vez a esponja com a água da pia;
+
+Passar a esponja no copo, passando a esponja por toda a superfície interna e externa do copo;
+
+Ligar a torneira para retirar totalmente o detergente do copo;
+
+Deixar o copo no escorredor ou passar um pano para secá-lo totalmente.
+
+
+
+5 Algoritmo - Como postar uma foto em uma rede social
+
+Acesse um dispositivo com internet, seja um computador ou um celular;
+
+Abra o navegador ou aplicativo da rede social desejado;
+
+Logar na sua rede social;
+
+Vá até a parte onde você pode postar ou subir uma foto na rede social escolhida;
+
+Escolha a foto na galeria;
+
+Selecione enviar ou upload;
+
+Espere a foto carregar;
+
+Adicione uma legenda a sua foto, caso queira;
+
+Selecione o botão referente a postar.
+
+
+
